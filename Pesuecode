@@ -1,0 +1,28 @@
+Pesuecode weekly project 2
+
+SIMPAN OEBJECT1 dengan quest yang berisi data string "Mengapa memilih untuk masuk ke hactiv8?
+SIMPAN OBJECT2 dengan quest yang berisi data string"apa motivasimu masuk ke hactiv8?"
+SIMPAN OBJECT3 dengan quest yang berisi data string"apa tujuan kedepannya setelah lulus dari hacktiv8?
+simpan array dari object1, object2, object3
+simpan q1 dengan nilai boolean true
+simpan qst1,qst2,qst3 dengan nilai default 0
+function dengan nama pertanyaan dengan default parameter
+buat for  dengan i sebagai index yang memiliki nilai default 0, kurang dari panjang array, dan index di tambah 1 jika memenuhi. dan for harus di dalam function.
+buat sebuah popup confirmation dengan q1 yang telah di setup nilai defaultnya dengan true
+tampilkan dan buat popup qst1 dari object array ke 0 dengan propertynya
+tampilkan dan buat popup qst2 dari object array ke 0 dengan propertynya
+tampilkan dan buat popup qst3 dari object array ke 0 dengan propertynya
+buat kondisi jika user menginput q1 sama dengan true
+lalu ke condisi qst1 tidak sama dengan 0 dan kosong
+jika sesuai tampilkan qst1
+jika tidak tampilkan "tidak boleh kosong"
+lalu ke condisi qst2 tidak sama dengan 0 dan kosong
+jika sesuai tampilkan qst2
+jika tidak tampilkan "kamu tidak menjawabnya"
+lalu ke condisi qst3 tidak sama dengan 0 dan kosong
+jika sesuai tampilkan qst3
+jika tidak tampilkan "kamu belum menjawabnya"
+lalu kembalikan nilai function
+tampilkan function beserta nama dengan parameter default
+
+
